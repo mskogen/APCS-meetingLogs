@@ -3,44 +3,35 @@ Monday 10_15_2018 @ 1pm
 CSCI 3308 Project - BlizzardKicker
 
 -- WHAT DID YOU DO? --
-John Henry:
 
-Ryan Davis: 
+John Henry: Working on HW#2 to get more familiar with Bootstrap and capabilities.
 
-Matthew Skogen:
+Ryan Davis: Working on HW#2 to get more familiar with Bootstrap and capabilities.
 
-Kamiar Coffey:
+Matthew Skogen: Finished HW#2, researched and ran example bootstrap and express servers to familiarize myself with what needs to be done for the website.
 
-Chad Di Lauro:
+Kamiar Coffey: Not Present
 
-Asher Farr:
+Chad Di Lauro: Working on HW#2 to get more familiar with Bootstrap and capabilities.
+
+Asher Farr: Setup basic framework and added in dependencies for bootstrap and express. 
 
 
 -- WHAT ARE YOU GOING TO DO? --
 
-John Henry:
+John Henry: Finish HW#2 and start working on the initial frontend html file.
 
-Ryan Davis: 
+Ryan Davis: Finish HW#2 and start working on the initial frontend html file.
 
-Matthew Skogen:
+Matthew Skogen: Help Asher out with backend server and make sure we can get the backend to communicate with front end. 
 
-Kamiar Coffey:
+Kamiar Coffey: Not Present
 
-Chad Di Lauro:
+Chad Di Lauro: Finish HW#2 and start working on the initial frontend html file.
 
-Asher Farr:
+Asher Farr: Continue to work on setting up backend server to fead in the frontend html file.
 
 
 -- ANY ROADBLOCKS? --
 
-John Henry:
-
-Ryan Davis: 
-
-Matthew Skogen:
-
-Kamiar Coffey:
-
-Chad Di Lauro:
-
-Asher Farr:
+All: Knowledge. Need to still do more research and get more familiar with the software we are using and developing.

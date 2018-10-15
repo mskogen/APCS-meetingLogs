@@ -1,0 +1,63 @@
+Monday 10_08_2018 @ 1pm
+
+CSCI 3308 Project - BlizzardKicker
+
+--- Agile Standup Meeting Summary ---
+
+The first standup meeting for APCS consisted of planning four key code sprints to be completed this semester. The team meets for two hours every Monday. 
+
+-- WHAT DID YOU DO? --
+John Henry: I practiced HTML and CSS in lab last week. I also researched APIs, SQL, and bootstrap to prepare for this project.
+
+Ryan Davis: Got familiar with HTML and CSS in lab, planned out sprints and finalized requirements for our project.
+
+Matthew Skogen: Familiarized myself with HTML and CSS in the lab 5. We planned out the four sprints and allocated tasks to each person.
+
+Kamiar Coffey: I researched various software tools in addition to HTML and CSS such as node.js and bootstrap to decide what to focus time on using. 
+
+Chad Di Lauro: I learned and practiced HTML and CSS in the lab.
+
+Asher Farr: I worked on node.js along with express. I installed node into our project and added bootstrap with express for hosting then pushed it all to github. 
+
+-- WHAT ARE YOU GOING TO DO? --
+John Henry: I will install all relevant packages and begin writing the HTML for our website with Ryan.
+
+Ryan Davis: Begin research into frontend development for our site and begin development with JH. 
+
+Matthew Skogen: Research and work on tutorials w/ Node.js and begin working on standing up the server for the website using bootstrap.
+
+Kamiar Coffey: I will begin learning how to use APIs. 
+
+Chad Di Lauro: I will figure out how I can help with the project and start working.
+
+Asher Farr: continue working with node.js and express to stand up the local server.
+
+-- ANY ROADBLOCKS? --
+John Henry: I don’t foresee any specific roadblocks for this week, but if any come up I will discuss them at our next standup on Monday 10/15.
+
+Ryan Davis: Need to become more familiar with web design (front and back end) in order to contribute a meaningful amount to the project. 
+
+Matthew Skogen: Need to learn a lot about frontend/backend code development. Lots of stuff to learn but we have enough resources and people to figure out what needs to be done.
+
+Kamiar Coffey: I need to learn how the front end software will fit with the backend database we will make. 
+
+Chad Di Lauro: I need to allocate more time for this class
+
+Asher Farr: Need to gain more knowledge of node.js and express.
+
+
+
+Sprint Retrospective Meeting Notes:
+
+-- WHAT WENT WELL? --
+The planning meeting was productive for the first half because we all were honest with the amount of knowledge that the group collectively has. 
+We found a good location for our Monday meetings.
+
+-- WHAT DIDN’T GO WELL? --
+Planning a time/place for the meeting was difficult and ineffective.
+We all need to put in a lot more work to the project and do some more studying/research for the website
+
+-- WHAT SHOULD BE IMPROVED UPON IN THE NEXT SPRINT?
+The team needs to all meet on time and all people need to be present
+We need to start working on the actual website and make sure we are all on the same page
+Need to decide the focus areas for each person on the team (frontend/backend, etc…)

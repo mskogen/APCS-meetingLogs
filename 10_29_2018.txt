@@ -1,0 +1,36 @@
+Monday 10_29_2018 @ 1pm
+
+CSCI 3308 Project - BlizzardKicker
+
+-- Decisions -- 
+-Call API about every 30 min or so.
+-user login as URL/$USER_ID
+-Landing page for website unless user is already logged in
+-Login page as popup instead of as a whole separate page
+-Registration -> username, email, set preferences, and maybe picture
+-sliders for preferences and dropdowns for season passes
+-results page discribes algorithm/selection reasoning for chosen resort
+
+-- WHAT DID YOU DO? --
+
+All: Recapped milestone 3 meetings and plans for moving forward based on feedback.
+
+
+-- WHAT ARE YOU GOING TO DO? --
+
+John Henry: Work on developing the frontend landing page for the website
+
+Ryan Davis: Work on the homepage
+
+Matthew Skogen: work on making the login page a popup and help with landing page
+
+Kamiar Coffey: will write a DataCache.js file for the models folder to store the weather API data in a local cache so we don't have to call the API a million time
+
+Chad Di Lauro: Not Present
+
+Asher Farr: working on setting up a server and working on the registration resources
+
+-- ANY ROADBLOCKS? --
+
+Not right now.
+

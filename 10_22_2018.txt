@@ -1,0 +1,8 @@
+Monday 10_22_2018 @ 1pm
+
+CSCI 3308 Project - BlizzardKicker
+
+-- WHAT DID YOU DO? --
+
+All: Asher got everyone up to speed on how the backend MongoDB and bootstrap server works. Bounced some ideas off of each other in regards to what we want the website to look like and how everything works together on the backend.
+
